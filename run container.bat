@@ -1,0 +1,1 @@
+docker run --network suru_docker_network --name edm_front_container -h edm_front_container -d edm_front
